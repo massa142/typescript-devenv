@@ -17,19 +17,19 @@
   },
   "homepage": "https://github.com/massa142/typescript-devenv#readme",
   "devDependencies": {
-    "browserify": "^10.1.1",
+    "browserify": "^16.2.3",
     "gulp": "^3.8.11",
     "gulp-jsmin": "^0.1.5",
     "gulp-rename": "^1.2.2",
-    "gulp-sourcemaps": "^1.5.2",
-    "gulp-tsd": "0.0.4",
-    "gulp-typescript": "^2.6.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-tsd": "0.1.1",
+    "gulp-typescript": "^4.0.2",
     "gulp-util": "^3.0.4",
-    "gulp-watch": "^4.2.4",
-    "path": "^0.11.14",
-    "require-dir": "^0.3.0",
-    "typescript": "^1.5.0-beta",
+    "gulp-watch": "^5.0.1",
+    "path": "^0.12.7",
+    "require-dir": "^1.1.0",
+    "typescript": "^3.1.2",
     "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^2.0.0"
   }
 }
