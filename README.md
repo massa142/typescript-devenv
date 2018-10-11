@@ -1,5 +1,7 @@
 # TypeScript開発環境
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/massa142/typescript-devenv.svg)](https://greenkeeper.io/)
+
 概要
 -----
 + gulp
